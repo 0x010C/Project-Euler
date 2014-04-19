@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1350676573 source:/home/sphinx-c/programmation/projet euler/bac a sable/main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

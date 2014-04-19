@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1350674741 source:/home/sphinx-c/programmation/projet euler/euler37/main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

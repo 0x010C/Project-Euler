@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1366306413 source:/home/sphinx-c/Dropbox/programmation/reverse/euler20/main.c
+	<stdio.h>
+	<stdlib.h>
+	<gmp.h>
+
