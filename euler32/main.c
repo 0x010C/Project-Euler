@@ -48,12 +48,12 @@ int isPandigital(int a, int b, int c)
 
 int inTable(int n, int *table, int size)
 {
-int i=0;
+	int i=0;
 
-for(i=0;i<size;i++)
-	if(table[i] == n)
-		return 1;
-return 0;
+	for(i=0;i<size;i++)
+		if(table[i] == n)
+			return 1;
+	return 0;
 }
 
 int main()
