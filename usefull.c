@@ -1,4 +1,4 @@
-nt isPrime(int n)
+int isPrime(int n)
 {
 	int i = 3;
 	if(n%2 == 0)

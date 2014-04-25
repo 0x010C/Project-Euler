@@ -1,3 +1,7 @@
+/*
+Attention : Ce programme est fonctionnel, mais il n'est pas opptimisé. Il demande plusieurs heures pour trouver la réponse ( > 5h chez moi)
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 
